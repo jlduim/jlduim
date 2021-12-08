@@ -1,6 +1,8 @@
 ### Hi there! It's so nice to see you here! 👋
 ### My name is João Lucas Duim and I'm 19 years old.
 
+![Alt Text](https://github.com/jlduim/jlduim/blob/main/SmartSelect_20211208-125344_Chrome.gif)
+
 - 🔭 I’m currently working on **Undergraduate Research**.
 - 🌱 I’m currently learning **Mathematical Modeling, Computacional Mathematics, Statistics and Data Science**.
 - 👯 I’m looking to collaborate on college subjects as a **teaching assistant**.
