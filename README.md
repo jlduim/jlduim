@@ -1,7 +1,7 @@
 ![Alt Text](https://github.com/jlduim/jlduim/blob/main/SmartSelect_20211208-125344_Chrome.gif)
 
 - 🔭 I’m currently working on **Undergraduate Research**.
-- 🌱 I’m currently learning **Mathematical Modeling, Computacional Mathematics, Statistics and Data Science**.
+- 🌱 I’m currently learning **Mathematical Modeling, Computacional Mathematics, Statistics, Data Science and Artificial Intelligence**.
 - 👯 I’m looking to collaborate on college subjects as a **teaching assistant**.
 - 🏆 I've got **42 Scientific Olympiads Awards in Mathematics, Physics, Chemistry, Biology, Portuguese, Geography, Earth Sciences, Astronomy and Robotics**.
 - 💬 Ask me about **Mathematics, Science and Technology**.
