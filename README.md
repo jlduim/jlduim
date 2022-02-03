@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/jlduim/jlduim/blob/main/SmartSelect_20211208-125344_Chrome.gif)
+![Alt Text](https://github.com/jlduim/jlduim/blob/main/GIF%20de%20apresenta%C3%A7%C3%A3o.gif)
 
 - 🔭 I’m currently working on **Undergraduate Research**.
 - 🌱 I’m currently learning **Mathematical Modeling, Computacional Mathematics, Statistics, Data Science and Artificial Intelligence**.
