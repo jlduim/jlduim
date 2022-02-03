@@ -6,7 +6,7 @@
 - 🏆 I've got **45 Scientific Olympiads Awards in Mathematics, Physics, Chemistry, Biology, Portuguese, Geography, Earth Sciences, Astronomy and Robotics**.
 - 💬 Ask me about **Mathematics, Science and Technology**.
 - 📫 How to reach me: **jlduim@gmail.com** .
-- 📄 Know more about me on [https://www.linkedin.com/in/joao-lucas-duim/](https://www.linkedin.com/in/joao-lucas-duim/) and [http://lattes.cnpq.br/7738513257811930](http://lattes.cnpq.br/7738513257811930)
+- 📄 Know more about me on [https://linktr.ee/jlduim](https://linktr.ee/jlduim), [https://www.linkedin.com/in/joao-lucas-duim/](https://www.linkedin.com/in/joao-lucas-duim/) and [http://lattes.cnpq.br/7738513257811930](http://lattes.cnpq.br/7738513257811930)
 - ⚡ Fun fact: **I love meeting new people and sharing experiences with them. I also love learning about other cultures and languages**.
 
 <!--
